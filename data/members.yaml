@@ -338,3 +338,10 @@
   country: "HS"
   groups: ["SC"]
   roles: ["member"]
+  
+- name: "Dimitris Koureas"
+  affiliation: "Naturalis Biodiversity Center / DiSSCo RI"
+  affiliation_link: "https://www.dissco.eu"
+  country: "EU"
+  groups: ["SC"]
+  roles: ["member"]
